@@ -1,7 +1,7 @@
     <aside class="left-sidebar">
       <div>
         <div class="brand-logo d-flex align-items-center justify-content-between">
-          <a href="./index.html" class="text-nowrap logo-img">
+          <a href="/" class="text-nowrap logo-img">
             <img src="{{ asset('Modernize-1.0.0/src/assets/images/logos/dark-logo.svg') }}" width="180" alt="" />
           </a>
           <div class="close-btn d-xl-none d-block sidebartoggler cursor-pointer" id="sidebarCollapse">
@@ -15,7 +15,7 @@
               <span class="hide-menu">Home</span>
             </li>
             <li class="sidebar-item">
-              <a class="sidebar-link" href="./index.html" aria-expanded="false">
+              <a class="sidebar-link" href="/" aria-expanded="false">
                 <span>
                   <i class="ti ti-layout-dashboard"></i>
                 </span>
@@ -27,7 +27,7 @@
               <span class="hide-menu">MASTER</span>
             </li>
             <li class="sidebar-item">
-              <a class="sidebar-link" href="./ui-buttons.html" aria-expanded="false">
+              <a class="sidebar-link" href="/buku" aria-expanded="false">
                 <span>
                   <i class="ti ti-article"></i>
                 </span>
@@ -36,7 +36,7 @@
             </li>
 
             <li class="sidebar-item">
-              <a class="sidebar-link" href="./ui-card.html" aria-expanded="false">
+              <a class="sidebar-link" href="/paper" aria-expanded="false">
                 <span>
                   <i class="ti ti-cards"></i>
                 </span>
@@ -45,7 +45,7 @@
             </li>
 
             <li class="sidebar-item">
-              <a class="sidebar-link" href="./icon-tabler.html" aria-expanded="false">
+              <a class="sidebar-link" href="/dataku" aria-expanded="false">
                 <span>
                   <i class="ti ti-mood-happy"></i>
                 </span>
@@ -75,7 +75,7 @@
             </li>
 
           </ul>
-          
+
         </nav>
-        </div>
-      </aside>
+      </div>
+    </aside>
