@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Dashboard</title>
+    <title>@yield('title')</title>
     <link rel="shortcut icon" type="image/png" href="{{ asset('Modernize-1.0.0/src/assets/images/logos/favicon.png') }}" />
     <link rel="stylesheet" href="{{ asset('Modernize-1.0.0/src/assets/css/styles.min.css') }}" />
 </head>
@@ -20,7 +20,7 @@
             <div class="container-fluid">
                 <div class="card">
                     <div class="card-body">
-                        @include('layouts.dataku')
+                        @yield('content')
                     </div>
                 </div>
             </div>
