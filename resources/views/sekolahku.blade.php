@@ -9,9 +9,9 @@
             <!-- Efek Gradient Latar Belakang -->
             <div class="position-absolute top-0 start-0 w-100 h-100" style="background: radial-gradient(circle at top right, rgba(255,255,255,0.15) 0%, transparent 60%);"></div>
 
-            <!-- Logo Sekolah (Menggunakan Icon Tabler sebagai placeholder) -->
+            <!-- Logo Sekolah -->
             <div class="bg-white rounded-circle d-flex align-items-center justify-content-center mb-3 shadow-lg position-relative" style="width: 130px; height: 130px; border: 4px solid rgba(255, 255, 255, 0.35); overflow: hidden;">
-                <i class="ti ti-school text-primary" style="font-size: 4.5rem;"></i>
+                <img src="https://smknegeri1airputih.sch.id/assets/upload/images/logo/7d4cef73c4ab2551b67b143dccbdcf19.png" alt="Foto Aryo Pratama" style="width: 100%; height: 100%; object-fit: cover; object-position: top;">
             </div>
             
             <h3 class="fw-bolder text-white mb-1 position-relative">SMKN 1 Air Putih</h3>
@@ -40,7 +40,7 @@
                 </div>
                 <div>
                     <span class="text-muted fs-3 fw-semibold text-uppercase" style="letter-spacing: 1px;">Program Keahlian</span>
-                    <h6 class="fw-bold mb-0 fs-5 mt-1 text-dark">RPL, TKJ, TKRO & KI</h6>
+                    <h6 class="fw-bold mb-0 fs-5 mt-1 text-dark">RPL, TKJ, TKRO, TBSM, TBKR & KI</h6>
                 </div>
             </div>
 
