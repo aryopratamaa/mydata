@@ -1,3 +1,7 @@
+@extends('layouts.index')
+@section('title', 'Data Saya')
+
+@section('content')
 <div class="card border-0 shadow-sm rounded-4 overflow-hidden">
     <div class="row g-0">
         <div class="col-md-5 bg-primary d-flex flex-column align-items-center justify-content-center p-5 text-center position-relative">
@@ -37,3 +41,5 @@
         </div>
     </div>
 </div>
+
+@endsection
